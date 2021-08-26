@@ -2553,8 +2553,8 @@ a#infos:hover {
 
 @media (max-width: 768px) {
   .academic-logo {
-    width: 80px;
-    height: 80px;
+    width: 75px;
+    height: 75px;
   }
   .academic-logo img {
     max-height: none;
