@@ -2538,6 +2538,11 @@ a#infos:hover {
   margin-right: 20px;
 }
 
+.sanchaya-logo h2 {
+  line-height: 1.7em;
+  padding-bottom: 0.4em;
+}
+
 .clear {
   clear: both;
 }
