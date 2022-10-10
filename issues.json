@@ -253,7 +253,7 @@
     "cover": "https://archive.org/services/img/bolpu0000kunc"
   },
   {
-    "identifier": "matthesikkitkunkumaarebashe",
+    "identifier": "mathesikkithkumk0000katr",
     "title": "ಮತ್ತೆ ಸಿಕ್ಕಿತ್ತ್ ಕುಂಕುಮ",
     "author": "ಕಟ್ರತನ ಲಲಿತಾ ಅಯ್ಯಣ್ಣ",
     "publisher": "ಕರ್ನಾಟಕ ಅರೆಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು‍ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ",
@@ -261,8 +261,8 @@
     "tags": "ಅರೆಭಾಷೆ ಕಥೆ;ಅರೆಭಾಷೆ ಸಾಹಿತ್ಯ; ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;",
     "level": "ArebasheSahitya",
     "authorUrl": "https://archive.org/search.php?query=creator%3Aಮತ್ತೆ ಸಿಕ್ಕಿತ್ತ್ ಕುಂಕುಮ",
-    "url": "https://archive.org/details/matthesikkitkunkumaarebashe",
-    "cover": "https://archive.org/services/img/matthesikkitkunkumaarebashe"
+    "url": "https://archive.org/details/mathesikkithkumk0000katr",
+    "cover": "https://archive.org/services/img/mathesikkithkumk0000katr"
   },
   {
     "identifier": "minpuliarebashe",
@@ -971,6 +971,18 @@
     "authorUrl": "https://archive.org/search.php?query=creator%3Aಕೊಡಗು ಮತ್ತು ದಕ್ಷಿಣ ಕನ್ನಡ ಗೌಡ ಸಮಾಜದ ಸಂಸ್ಕೃತಿ- 1970",
     "url": "https://archive.org/details/kodagumathudaksh0000unse",
     "cover": "https://archive.org/services/img/kodagumathudaksh0000unse"
+  },
+  {
+    "identifier": "",
+    "title": "ಹಳೆ ಬಾಳಿನ ಹರ್ದ ಕಾಗದಗ",
+    "author": "ಜಯಮ್ಮ ಚೆಟ್ಟಿಮಾಡ",
+    "publisher": "ಕರ್ನಾಟಕ ಅರೆಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ",
+    "info": "ಈ ಪುಸ್ತಕವನ್ನು ಕರ್ನಾಟಕ ಅರೆಬಾಸೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ‍‌ಯ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯಡಿ ಸಂಚಿ ಫೌಂಡೇಶನ್ ®, ಬೆಂಗಳೂರು ಸಹಯೋಗದೊಂದಿಗೆ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.",
+    "tags": "ಅರೆಭಾಷೆ ಕಥೆ;ಅರೆಭಾಷೆ ಸಾಹಿತ್ಯ; ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;",
+    "level": "ArebasheSahitya",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಹಳೆ ಬಾಳಿನ ಹರ್ದ ಕಾಗದಗ",
+    "url": "https://archive.org/details/",
+    "cover": "https://archive.org/services/img/"
   },
   {
     "identifier": "kodagugowdasamsk0000unse",
@@ -2725,16 +2737,256 @@
     "cover": "https://archive.org/services/img/kodagusangati_2005_234"
   },
   {
-    "identifier": "gowdakannada-arebashe",
-    "title": "ಗೌಡ ಕನ್ನಡ",
-    "author": "ಕೆ. ಕುಶಾಲಪ್ಪ ಗೌಡ",
-    "publisher": "ಅಣ್ಣಾ ಮಲೈ ಯುನಿವರ್ಸಿಟಿ",
+    "identifier": "are.rajaparampareya_gowdaru180108",
+    "title": "ರಾಜಪರಂಪರೆಯ ಕೊಡಗು ಮತ್ತು ದಕ್ಷಿಣ ಕನ್ನಡ ಗೌಡರು",
+    "author": "ಪುತ್ತೂರು ಅನಂತರಾಜ ಗೌಡ",
+    "publisher": "ವಿಶ್ವ ಒಕ್ಕಲಿಗರ ಮಹಾ ವೆದಿಕೆ",
     "info": "ಈ ಪುಸ್ತಕವನ್ನು ಕರ್ನಾಟಕ ಅರೆಬಾಸೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ‍‌ಯ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯಡಿ ಸಂಚಿ ಫೌಂಡೇಶನ್ ®, ಬೆಂಗಳೂರು ಸಹಯೋಗದೊಂದಿಗೆ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.",
     "tags": "ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;ಕೊಡಗು ಸಂಗಾತಿ ಸಂಚಯ; Kodagu Sangati Sanchaya;",
     "level": "ArebasheSahitya",
-    "authorUrl": "https://archive.org/search.php?query=creator%3Aಕೆ.+ಕುಶಾಲಪ್ಪ+ಗೌಡ",
-    "url": "https://archive.org/details/gowdakannada-arebashe",
-    "cover": "https://archive.org/services/img/gowdakannada-arebashe"
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aರಾಜಪರಂಪರೆಯ ಕೊಡಗು ಮತ್ತು ದಕ್ಷಿಣ ಕನ್ನಡ ಗೌಡರು",
+    "url": "https://archive.org/details/are.rajaparampareya_gowdaru180108",
+    "cover": "https://archive.org/services/img/are.rajaparampareya_gowdaru180108"
+  },
+  {
+    "identifier": "are.yaksha_jompe",
+    "title": "ಯಕ್ಷ ಜೂಂಪೆ ಅರೆಬಾಸೆ ಯಕ್ಷಗಾನ ಪ್ರಸಂಗಗ",
+    "author": "ಭವ್ಯಶ್ರೀ ಕುಲ್ಕುಂದ",
+    "publisher": "ಕರ್ನಾಟಕ ಅರೆಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ  ಅಕಾಡೆಮಿ",
+    "info": "ಈ ಪುಸ್ತಕವನ್ನು ಕರ್ನಾಟಕ ಅರೆಬಾಸೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ‍‌ಯ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯಡಿ ಸಂಚಿ ಫೌಂಡೇಶನ್ ®, ಬೆಂಗಳೂರು ಸಹಯೋಗದೊಂದಿಗೆ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.",
+    "tags": "ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;ಕೊಡಗು ಸಂಗಾತಿ ಸಂಚಯ; Kodagu Sangati Sanchaya;",
+    "level": "ArebasheSahitya",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಯಕ್ಷ ಜೂಂಪೆ ಅರೆಬಾಸೆ ಯಕ್ಷಗಾನ ಪ್ರಸಂಗಗ",
+    "url": "https://archive.org/details/are.yaksha_jompe",
+    "cover": "https://archive.org/services/img/are.yaksha_jompe"
+  },
+  {
+    "identifier": "are.goode_bekaguttu",
+    "title": "ಗೂಡೆ ಬೆಕಾಗುಟ್ಟು ಮತ್ತೆ ಇತರ ನಾಟಕಗಳ ಜೂಂಗೆ",
+    "author": "ಪಿ. ಜಿ. ಅಂಬೆಕಲ್",
+    "publisher": "ಕರ್ನಾಟಕ ಅರೆಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ  ಅಕಾಡೆಮಿ",
+    "info": "ಈ ಪುಸ್ತಕವನ್ನು ಕರ್ನಾಟಕ ಅರೆಬಾಸೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ‍‌ಯ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯಡಿ ಸಂಚಿ ಫೌಂಡೇಶನ್ ®, ಬೆಂಗಳೂರು ಸಹಯೋಗದೊಂದಿಗೆ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.",
+    "tags": "ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;ಕೊಡಗು ಸಂಗಾತಿ ಸಂಚಯ; Kodagu Sangati Sanchaya;",
+    "level": "ArebasheSahitya",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಗೂಡೆ ಬೆಕಾಗುಟ್ಟು ಮತ್ತೆ ಇತರ ನಾಟಕಗಳ ಜೂಂಗೆ",
+    "url": "https://archive.org/details/are.goode_bekaguttu",
+    "cover": "https://archive.org/services/img/are.goode_bekaguttu"
+  },
+  {
+    "identifier": "are.nempuna_varthe__book",
+    "title": "ನೆಂಪುನ ಒರ್ತೆ",
+    "author": "ದಾಮೋದರ ಕುಯಿಂತೋಡು",
+    "publisher": "ಕರ್ನಾಟಕ ಅರೆಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ  ಅಕಾಡೆಮಿ",
+    "info": "ಈ ಪುಸ್ತಕವನ್ನು ಕರ್ನಾಟಕ ಅರೆಬಾಸೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ‍‌ಯ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯಡಿ ಸಂಚಿ ಫೌಂಡೇಶನ್ ®, ಬೆಂಗಳೂರು ಸಹಯೋಗದೊಂದಿಗೆ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.",
+    "tags": "ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;ಕೊಡಗು ಸಂಗಾತಿ ಸಂಚಯ; Kodagu Sangati Sanchaya;",
+    "level": "ArebasheSahitya",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aನೆಂಪುನ ಒರ್ತೆ",
+    "url": "https://archive.org/details/are.nempuna_varthe__book",
+    "cover": "https://archive.org/services/img/are.nempuna_varthe__book"
+  },
+  {
+    "identifier": "are.veeramani_kaalaga",
+    "title": "ವೀರಮಣಿ ಕಾಳಗ",
+    "author": "ಡಾ. ಮಾಧವ ಪೆರಾಜೆ",
+    "publisher": "ಕರ್ನಾಟಕ ಅರೆಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ  ಅಕಾಡೆಮಿ",
+    "info": "ಈ ಪುಸ್ತಕವನ್ನು ಕರ್ನಾಟಕ ಅರೆಬಾಸೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ‍‌ಯ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯಡಿ ಸಂಚಿ ಫೌಂಡೇಶನ್ ®, ಬೆಂಗಳೂರು ಸಹಯೋಗದೊಂದಿಗೆ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.",
+    "tags": "ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;ಕೊಡಗು ಸಂಗಾತಿ ಸಂಚಯ; Kodagu Sangati Sanchaya;",
+    "level": "ArebasheSahitya",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aವೀರಮಣಿ ಕಾಳಗ",
+    "url": "https://archive.org/details/are.veeramani_kaalaga",
+    "cover": "https://archive.org/services/img/are.veeramani_kaalaga"
+  },
+  {
+    "identifier": "are.sahebru_badave",
+    "title": "ಸಾಹೇಬ್ರು ಬಂದವೇ",
+    "author": "ಜಯಪ್ರಕಾಶ ಕುಕ್ಕೆಟಿ",
+    "publisher": "ಕರ್ನಾಟಕ ಅರೆಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ  ಅಕಾಡೆಮಿ",
+    "info": "ಈ ಪುಸ್ತಕವನ್ನು ಕರ್ನಾಟಕ ಅರೆಬಾಸೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ‍‌ಯ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯಡಿ ಸಂಚಿ ಫೌಂಡೇಶನ್ ®, ಬೆಂಗಳೂರು ಸಹಯೋಗದೊಂದಿಗೆ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.",
+    "tags": "ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;ಕೊಡಗು ಸಂಗಾತಿ ಸಂಚಯ; Kodagu Sangati Sanchaya;",
+    "level": "ArebasheSahitya",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಸಾಹೇಬ್ರು ಬಂದವೇ",
+    "url": "https://archive.org/details/are.sahebru_badave",
+    "cover": "https://archive.org/services/img/are.sahebru_badave"
+  },
+  {
+    "identifier": "are.kathegala_attuli",
+    "title": "ಕಥೆಗಳ ಅಟ್ಟುಳಿ",
+    "author": "ಭವಾನಿಶಂಕರ್  ಅಡ್ತಲೆ",
+    "publisher": "ಕರ್ನಾಟಕ ಅರೆಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ  ಅಕಾಡೆಮಿ",
+    "info": "ಈ ಪುಸ್ತಕವನ್ನು ಕರ್ನಾಟಕ ಅರೆಬಾಸೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ‍‌ಯ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯಡಿ ಸಂಚಿ ಫೌಂಡೇಶನ್ ®, ಬೆಂಗಳೂರು ಸಹಯೋಗದೊಂದಿಗೆ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.",
+    "tags": "ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;ಕೊಡಗು ಸಂಗಾತಿ ಸಂಚಯ; Kodagu Sangati Sanchaya;",
+    "level": "ArebasheSahitya",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಕಥೆಗಳ ಅಟ್ಟುಳಿ",
+    "url": "https://archive.org/details/are.kathegala_attuli",
+    "cover": "https://archive.org/services/img/are.kathegala_attuli"
+  },
+  {
+    "identifier": "are.kiragurina_gayyaliga",
+    "title": "ಕಿರಗೂರಿನ ಗಯ್ಯಾಳಿಗ",
+    "author": "ಅ. ನಾ. ರಾವ್ ಜಾಧವ್",
+    "publisher": "ಕರ್ನಾಟಕ ಅರೆಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ  ಅಕಾಡೆಮಿ",
+    "info": "ಈ ಪುಸ್ತಕವನ್ನು ಕರ್ನಾಟಕ ಅರೆಬಾಸೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ‍‌ಯ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯಡಿ ಸಂಚಿ ಫೌಂಡೇಶನ್ ®, ಬೆಂಗಳೂರು ಸಹಯೋಗದೊಂದಿಗೆ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.",
+    "tags": "ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;ಕೊಡಗು ಸಂಗಾತಿ ಸಂಚಯ; Kodagu Sangati Sanchaya;",
+    "level": "ArebasheSahitya",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಕಿರಗೂರಿನ ಗಯ್ಯಾಳಿಗ",
+    "url": "https://archive.org/details/are.kiragurina_gayyaliga",
+    "cover": "https://archive.org/services/img/are.kiragurina_gayyaliga"
+  },
+  {
+    "identifier": "are.in_pursuit_of_our_roots_final",
+    "title": "In Persuit of our Routes",
+    "author": "ಪುತ್ತೂರು ಅನಂತರಾಜ ಗೌಡ",
+    "publisher": "Puttur Anantharaj Gowda",
+    "info": "ಈ ಪುಸ್ತಕವನ್ನು ಕರ್ನಾಟಕ ಅರೆಬಾಸೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ‍‌ಯ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯಡಿ ಸಂಚಿ ಫೌಂಡೇಶನ್ ®, ಬೆಂಗಳೂರು ಸಹಯೋಗದೊಂದಿಗೆ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.",
+    "tags": "ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;ಕೊಡಗು ಸಂಗಾತಿ ಸಂಚಯ; Kodagu Sangati Sanchaya;",
+    "level": "ArebasheSahitya",
+    "authorUrl": "https://archive.org/search.php?query=creator%3AIn Persuit of our Routes",
+    "url": "https://archive.org/details/are.in_pursuit_of_our_roots_final",
+    "cover": "https://archive.org/services/img/are.in_pursuit_of_our_roots_final"
+  },
+  {
+    "identifier": "are.arebhashe_mudpu_maayi",
+    "title": "ಅರೆಭಾಷೆ ಮುಡ್ಪು (Maayi)",
+    "author": "",
+    "publisher": "ಕರ್ನಾಟಕ ಅರೆಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ  ಅಕಾಡೆಮಿ",
+    "info": "ಈ ಪುಸ್ತಕವನ್ನು ಕರ್ನಾಟಕ ಅರೆಬಾಸೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ‍‌ಯ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯಡಿ ಸಂಚಿ ಫೌಂಡೇಶನ್ ®, ಬೆಂಗಳೂರು ಸಹಯೋಗದೊಂದಿಗೆ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.",
+    "tags": "ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;ಕೊಡಗು ಸಂಗಾತಿ ಸಂಚಯ; Kodagu Sangati Sanchaya;",
+    "level": "ArebasheSahitya",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಅರೆಭಾಷೆ ಮುಡ್ಪು (Maayi)",
+    "url": "https://archive.org/details/are.arebhashe_mudpu_maayi",
+    "cover": "https://archive.org/services/img/are.arebhashe_mudpu_maayi"
+  },
+  {
+    "identifier": "are.arebhashe_mudpu_jalthe_matte_peragalda_samputa_-2_sanchike_-5",
+    "title": "ಅರೆಭಾಷೆ ಮುಡ್ಪು (Jalthe matte Peragalda) Samputa -2 Sanchike -5",
+    "author": "",
+    "publisher": "ಕರ್ನಾಟಕ ಅರೆಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ  ಅಕಾಡೆಮಿ",
+    "info": "ಈ ಪುಸ್ತಕವನ್ನು ಕರ್ನಾಟಕ ಅರೆಬಾಸೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ‍‌ಯ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯಡಿ ಸಂಚಿ ಫೌಂಡೇಶನ್ ®, ಬೆಂಗಳೂರು ಸಹಯೋಗದೊಂದಿಗೆ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.",
+    "tags": "ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;ಕೊಡಗು ಸಂಗಾತಿ ಸಂಚಯ; Kodagu Sangati Sanchaya;",
+    "level": "ArebasheSahitya",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಅರೆಭಾಷೆ ಮುಡ್ಪು (Jalthe matte Peragalda) Samputa -2 Sanchike -5",
+    "url": "https://archive.org/details/are.arebhashe_mudpu_jalthe_matte_peragalda_samputa_-2_sanchike_-5",
+    "cover": "https://archive.org/services/img/are.arebhashe_mudpu_jalthe_matte_peragalda_samputa_-2_sanchike_-5"
+  },
+  {
+    "identifier": "are.arebhashe_mudpu_paragalda_tinga",
+    "title": "ಅರೆಭಾಷೆ ಮುಡ್ಪು (Paragalda Tinga)",
+    "author": "",
+    "publisher": "ಕರ್ನಾಟಕ ಅರೆಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ  ಅಕಾಡೆಮಿ",
+    "info": "ಈ ಪುಸ್ತಕವನ್ನು ಕರ್ನಾಟಕ ಅರೆಬಾಸೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ‍‌ಯ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯಡಿ ಸಂಚಿ ಫೌಂಡೇಶನ್ ®, ಬೆಂಗಳೂರು ಸಹಯೋಗದೊಂದಿಗೆ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.",
+    "tags": "ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;ಕೊಡಗು ಸಂಗಾತಿ ಸಂಚಯ; Kodagu Sangati Sanchaya;",
+    "level": "ArebasheSahitya",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಅರೆಭಾಷೆ ಮುಡ್ಪು (Paragalda Tinga)",
+    "url": "https://archive.org/details/are.arebhashe_mudpu_paragalda_tinga",
+    "cover": "https://archive.org/services/img/are.arebhashe_mudpu_paragalda_tinga"
+  },
+  {
+    "identifier": "are.arebhashe_mudpu_poggu_mattu_besaga",
+    "title": "ಅರೆಭಾಷೆ ಮುಡ್ಪು (Poggu mattu Besaga)",
+    "author": "",
+    "publisher": "ಕರ್ನಾಟಕ ಅರೆಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ  ಅಕಾಡೆಮಿ",
+    "info": "ಈ ಪುಸ್ತಕವನ್ನು ಕರ್ನಾಟಕ ಅರೆಬಾಸೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ‍‌ಯ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯಡಿ ಸಂಚಿ ಫೌಂಡೇಶನ್ ®, ಬೆಂಗಳೂರು ಸಹಯೋಗದೊಂದಿಗೆ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.",
+    "tags": "ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;ಕೊಡಗು ಸಂಗಾತಿ ಸಂಚಯ; Kodagu Sangati Sanchaya;",
+    "level": "ArebasheSahitya",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಅರೆಭಾಷೆ ಮುಡ್ಪು (Poggu mattu Besaga)",
+    "url": "https://archive.org/details/are.arebhashe_mudpu_poggu_mattu_besaga",
+    "cover": "https://archive.org/services/img/are.arebhashe_mudpu_poggu_mattu_besaga"
+  },
+  {
+    "identifier": "are.arebhashe_mudpu_ponni_jan15-feb15_2018_samputa_-2_sanchike_-2",
+    "title": "ಅರೆಭಾಷೆ ಮುಡ್ಪು (Ponni) Jan15-Feb15,2018 Samputa -2 Sanchike -2",
+    "author": "",
+    "publisher": "ಕರ್ನಾಟಕ ಅರೆಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ  ಅಕಾಡೆಮಿ",
+    "info": "ಈ ಪುಸ್ತಕವನ್ನು ಕರ್ನಾಟಕ ಅರೆಬಾಸೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ‍‌ಯ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯಡಿ ಸಂಚಿ ಫೌಂಡೇಶನ್ ®, ಬೆಂಗಳೂರು ಸಹಯೋಗದೊಂದಿಗೆ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.",
+    "tags": "ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;ಕೊಡಗು ಸಂಗಾತಿ ಸಂಚಯ; Kodagu Sangati Sanchaya;",
+    "level": "ArebasheSahitya",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಅರೆಭಾಷೆ ಮುಡ್ಪು (Ponni) Jan15-Feb15,2018 Samputa -2 Sanchike -2",
+    "url": "https://archive.org/details/are.arebhashe_mudpu_ponni_jan15-feb15_2018_samputa_-2_sanchike_-2",
+    "cover": "https://archive.org/services/img/are.arebhashe_mudpu_ponni_jan15-feb15_2018_samputa_-2_sanchike_-2"
+  },
+  {
+    "identifier": "are.arebhashe_mudpu_ponni",
+    "title": "ಅರೆಭಾಷೆ ಮುಡ್ಪು (Ponni)",
+    "author": "",
+    "publisher": "ಕರ್ನಾಟಕ ಅರೆಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ  ಅಕಾಡೆಮಿ",
+    "info": "ಈ ಪುಸ್ತಕವನ್ನು ಕರ್ನಾಟಕ ಅರೆಬಾಸೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ‍‌ಯ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯಡಿ ಸಂಚಿ ಫೌಂಡೇಶನ್ ®, ಬೆಂಗಳೂರು ಸಹಯೋಗದೊಂದಿಗೆ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.",
+    "tags": "ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;ಕೊಡಗು ಸಂಗಾತಿ ಸಂಚಯ; Kodagu Sangati Sanchaya;",
+    "level": "ArebasheSahitya",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಅರೆಭಾಷೆ ಮುಡ್ಪು (Ponni)",
+    "url": "https://archive.org/details/are.arebhashe_mudpu_ponni",
+    "cover": "https://archive.org/services/img/are.arebhashe_mudpu_ponni"
+  },
+  {
+    "identifier": "are.arebhashe_mudpu_suggi",
+    "title": "ಅರೆಭಾಷೆ ಮುಡ್ಪು (Suggi)",
+    "author": "",
+    "publisher": "ಕರ್ನಾಟಕ ಅರೆಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ  ಅಕಾಡೆಮಿ",
+    "info": "ಈ ಪುಸ್ತಕವನ್ನು ಕರ್ನಾಟಕ ಅರೆಬಾಸೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ‍‌ಯ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯಡಿ ಸಂಚಿ ಫೌಂಡೇಶನ್ ®, ಬೆಂಗಳೂರು ಸಹಯೋಗದೊಂದಿಗೆ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.",
+    "tags": "ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;ಕೊಡಗು ಸಂಗಾತಿ ಸಂಚಯ; Kodagu Sangati Sanchaya;",
+    "level": "ArebasheSahitya",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಅರೆಭಾಷೆ ಮುಡ್ಪು (Suggi)",
+    "url": "https://archive.org/details/are.arebhashe_mudpu_suggi",
+    "cover": "https://archive.org/services/img/are.arebhashe_mudpu_suggi"
+  },
+  {
+    "identifier": "are.arebhashe_mudpunirnaal_matte_belthinga_samputa_-2_sanchike_-4",
+    "title": "ಅರೆಭಾಷೆ ಮುಡ್ಪು (Nirnaal matte Belthinga) Samputa -2 Sanchike -4",
+    "author": "",
+    "publisher": "ಕರ್ನಾಟಕ ಅರೆಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ  ಅಕಾಡೆಮಿ",
+    "info": "ಈ ಪುಸ್ತಕವನ್ನು ಕರ್ನಾಟಕ ಅರೆಬಾಸೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ‍‌ಯ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯಡಿ ಸಂಚಿ ಫೌಂಡೇಶನ್ ®, ಬೆಂಗಳೂರು ಸಹಯೋಗದೊಂದಿಗೆ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.",
+    "tags": "ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;ಕೊಡಗು ಸಂಗಾತಿ ಸಂಚಯ; Kodagu Sangati Sanchaya;",
+    "level": "ArebasheSahitya",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಅರೆಭಾಷೆ ಮುಡ್ಪು (Nirnaal matte Belthinga) Samputa -2 Sanchike -4",
+    "url": "https://archive.org/details/are.arebhashe_mudpunirnaal_matte_belthinga_samputa_-2_sanchike_-4",
+    "cover": "https://archive.org/services/img/are.arebhashe_mudpunirnaal_matte_belthinga_samputa_-2_sanchike_-4"
+  },
+  {
+    "identifier": "are.arebhashe_mudpupoggu_matte_besaga_samputa_-2_sanchike_-3",
+    "title": "ಅರೆಭಾಷೆ ಮುಡ್ಪು (Poggu matte Besaga) Samputa -2 Sanchike -3",
+    "author": "",
+    "publisher": "ಕರ್ನಾಟಕ ಅರೆಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ  ಅಕಾಡೆಮಿ",
+    "info": "ಈ ಪುಸ್ತಕವನ್ನು ಕರ್ನಾಟಕ ಅರೆಬಾಸೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ‍‌ಯ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯಡಿ ಸಂಚಿ ಫೌಂಡೇಶನ್ ®, ಬೆಂಗಳೂರು ಸಹಯೋಗದೊಂದಿಗೆ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.",
+    "tags": "ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;ಕೊಡಗು ಸಂಗಾತಿ ಸಂಚಯ; Kodagu Sangati Sanchaya;",
+    "level": "ArebasheSahitya",
+    "authorUrl": "https://archive.org/search.php?query=creator%3Aಅರೆಭಾಷೆ ಮುಡ್ಪು (Poggu matte Besaga) Samputa -2 Sanchike -3",
+    "url": "https://archive.org/details/are.arebhashe_mudpupoggu_matte_besaga_samputa_-2_sanchike_-3",
+    "cover": "https://archive.org/services/img/are.arebhashe_mudpupoggu_matte_besaga_samputa_-2_sanchike_-3"
+  },
+  {
+    "identifier": "are.hingara_octorber_december_final",
+    "title": "Hingara Octorber December ೨೦೨೨",
+    "author": "",
+    "publisher": "ಕರ್ನಾಟಕ ಅರೆಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ  ಅಕಾಡೆಮಿ",
+    "info": "ಈ ಪುಸ್ತಕವನ್ನು ಕರ್ನಾಟಕ ಅರೆಬಾಸೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ‍‌ಯ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯಡಿ ಸಂಚಿ ಫೌಂಡೇಶನ್ ®, ಬೆಂಗಳೂರು ಸಹಯೋಗದೊಂದಿಗೆ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.",
+    "tags": "ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;ಕೊಡಗು ಸಂಗಾತಿ ಸಂಚಯ; Kodagu Sangati Sanchaya;",
+    "level": "ArebasheSahitya",
+    "authorUrl": "https://archive.org/search.php?query=creator%3AHingara Octorber December ೨೦೨೨",
+    "url": "https://archive.org/details/are.hingara_octorber_december_final",
+    "cover": "https://archive.org/services/img/are.hingara_octorber_december_final"
+  },
+  {
+    "identifier": "are.hingara__january_march_2022",
+    "title": "Hingara  January march ೨೦೨೨",
+    "author": "",
+    "publisher": "ಕರ್ನಾಟಕ ಅರೆಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ  ಅಕಾಡೆಮಿ",
+    "info": "ಈ ಪುಸ್ತಕವನ್ನು ಕರ್ನಾಟಕ ಅರೆಬಾಸೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ‍‌ಯ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯಡಿ ಸಂಚಿ ಫೌಂಡೇಶನ್ ®, ಬೆಂಗಳೂರು ಸಹಯೋಗದೊಂದಿಗೆ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.",
+    "tags": "ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;ಕೊಡಗು ಸಂಗಾತಿ ಸಂಚಯ; Kodagu Sangati Sanchaya;",
+    "level": "ArebasheSahitya",
+    "authorUrl": "https://archive.org/search.php?query=creator%3AHingara  January march ೨೦೨೨",
+    "url": "https://archive.org/details/are.hingara__january_march_2022",
+    "cover": "https://archive.org/services/img/are.hingara__january_march_2022"
+  },
+  {
+    "identifier": "are.hingara__april_june",
+    "title": "Hingara  April June ೨೦೨೨",
+    "author": "",
+    "publisher": "ಕರ್ನಾಟಕ ಅರೆಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ  ಅಕಾಡೆಮಿ",
+    "info": "ಈ ಪುಸ್ತಕವನ್ನು ಕರ್ನಾಟಕ ಅರೆಬಾಸೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ‍‌ಯ ಡಿಜಿಟಲೀಕರಣ ಯೋಜನೆಯಡಿ ಸಂಚಿ ಫೌಂಡೇಶನ್ ®, ಬೆಂಗಳೂರು ಸಹಯೋಗದೊಂದಿಗೆ ಡಿಜಿಟಲೀಕರಿಸಲಾಗಿರುತ್ತದೆ.",
+    "tags": "ಅರೆಬಾಸೆ ಸಾಹಿತ್ಯ;ಕರ್ನಾಟಕ ಅರೆ‌ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ;ಕೊಡಗು ಸಂಗಾತಿ ಸಂಚಯ; Kodagu Sangati Sanchaya;",
+    "level": "ArebasheSahitya",
+    "authorUrl": "https://archive.org/search.php?query=creator%3AHingara  April June ೨೦೨೨",
+    "url": "https://archive.org/details/are.hingara__april_june",
+    "cover": "https://archive.org/services/img/are.hingara__april_june"
   }
 ]
 }
